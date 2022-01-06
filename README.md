@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Ritik Sharma
-- 👀 I’m interested in Data Analysis
-- 🌱 I’m currently learning Data Analysis tools such as SQL, R, and Tableau. 
+- 👀 I’m interested in Data Science & Analysis
+- 🌱 I’m currently learning data science python libraries including Pandas, TensorFlow, and Keras.
+- :bulb:  
 - 📫 How to reach me -> ritiksharma1299@gmail.com
 - 📁 My portfolio -> https://ritiksharma.ca/
 
