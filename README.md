@@ -1,4 +1,4 @@
-<h1 align="center">Hey <img src="Hi.gif" width="40px" />, I'm Ritik</h1>
+<h1 align="center">Hey <img src="Hhttps://tenor.com/view/hi-gif-23520343" width="40px" />, I'm Ritik</h1>
 <h3 align="center">I'm interested in Data Science & Analysis, Machine Learning, and Statistical Modelling</h3>
 
 - 🌱 I'm currently learning data science python libraries including pytorch, beautifulsoup, and keras
@@ -29,10 +29,10 @@ I am experienced in:
 
 <hr />
 <div align="center">
-  <img align="center" src="https://github-readme-stats-kappa-sandy.vercel.app/api?username=Harsh-2420&show_icons=true&theme=radical&hide_border=true">
+  <img align="center" src="https://github-readme-stats-kappa-sandy.vercel.app/api?username=ritiksharma4&show_icons=true&theme=radical&hide_border=true">
   <br/>
     <br />
-  <img align="center" src="https://github-readme-stats-kappa-sandy.vercel.app/api/top-langs?username=Harsh-2420&layout=compact&show_icons=true&theme=radical&hide_border=true" />
+  <img align="center" src="https://github-readme-stats-kappa-sandy.vercel.app/api/top-langs?username=ritiksharma4&layout=compact&show_icons=true&theme=radical&hide_border=true" />
 </div>
   
 ### Languages and Tools:
