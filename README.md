@@ -1,6 +1,8 @@
 <h1 align="center">Hey <img src="Hi.gif" width="40px" />, I'm Ritik</h1>
 <h3 align="center">I'm an aspiring Data Scientist from Toronto!</h3>
 
+- 🏫 I'm a fourth-year student at UofT majoring in Applied Statistics with a dual minor in Computer Science and GIS
+
 - 👀 I'm interested in Data Science & Analysis, Machine Learning, and Statistical Modelling
 
 - 🌱 I'm currently learning data science python libraries including pytorch, beautifulsoup, and keras
