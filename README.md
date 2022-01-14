@@ -1,4 +1,4 @@
-<h1 align="center">Hey <iimg src="Hi.gif" width="40px" />, I'm Ritik</h1>
+<h1 align="center">Hey <img src="Hi.gif" width="40px" />, I'm Ritik</h1>
 <h3 align="center">I'm interested in Data Science & Analysis, Machine Learning, and Statistical Modelling</h3>
 
 - 🌱 I'm currently learning data science python libraries including pytorch, beautifulsoup, and keras
