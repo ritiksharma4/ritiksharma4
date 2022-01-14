@@ -1,6 +1,8 @@
 <h1 align="center">Hey <img src="Hi.gif" width="40px" />, I'm Ritik</h1>
-<h3 align="center">I'm interested in Data Science & Analysis, Machine Learning, and Statistical Modelling</h3>
+<h3 align="center">I'm an aspiring Data Scientist from Toronto!</h3>
 
+- 👀 I'm interested in Data Science & Analysis, Machine Learning, and Statistical Modelling
+- 
 - 🌱 I'm currently learning data science python libraries including pytorch, beautifulsoup, and keras
 
 - 💡 I'm proficient in several data science python libraries including numpy, pandas, matplotlib and seaborn for data visualization, and scikit-learn and tensorflow for machine learning.
