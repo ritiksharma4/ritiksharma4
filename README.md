@@ -1,5 +1,5 @@
 <h1 align="center">Hey <img src="Hi.gif" width="40px" />, I'm Ritik</h1>
-<h3 align="center">I'm an aspiring Data Scientist from Toronto!</h3>
+<h3 align="center">I'm a Technology Consultant from Toronto!</h3>
 
 - 🏫 I currently work as a Technology Consultant at PwC Canada. My competency is Salesforce.
 
