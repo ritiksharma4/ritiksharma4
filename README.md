@@ -3,7 +3,7 @@
 
 - 🏫 I currently work as a Technology Consultant at PwC Canada. My competency is Salesforce.
 
-- :mortar_board: I'm a Honours Bachelor of Science (HBsc) graduate from UofT with a major in Applied Statistics and a dual minor in Computer Science and GIS
+- :mortar_board: I'm an Honours Bachelor of Science (HBsc) graduate from UofT with a major in Applied Statistics and a dual minor in Computer Science and GIS
 
 - 👀 I'm interested in Data Science & Analysis, Machine Learning, and Statistical Modelling
 
